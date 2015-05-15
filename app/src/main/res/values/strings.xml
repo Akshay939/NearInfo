@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Near Place Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">My Favorite Place</string>
+    <string name="title_activity_home">Home</string>
+    <string name="ed_hint">Enter Radius in Meter (1000 Meter - 1 KM)</string>
+    <string name="btn_get_list">Get List</string>
+    <string name="btn_ok">Close</string>
+    <string name="btn_show_map">Show location on Map</string>
+    <string name="btn_show_image">Show Image</string>
+    <string name="title_activity_details_screen">Details_screen</string>
+    <string name="title_activity_place_map">Place_map</string>
+
+</resources>
